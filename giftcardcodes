@@ -3,7 +3,7 @@ from random import randint
 import time
 gentype = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
 print("Hello To Multipe Gift Card Generator")
-print("This Script Is Just for educational prupose use it at your own risk")
+print("This Script Is Just for educational purpose use it at your own risk")
 total = input("How Many Would You Like To Generate? ")
 #Number To Generate
 number = int(total)
